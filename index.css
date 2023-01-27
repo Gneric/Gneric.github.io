@@ -1,0 +1,35 @@
+
+@font-face {
+    font-family: 'Hyperjump';
+    src: url('/fonts/HyperjumpExtraBold.ttf');
+}
+
+body {
+    background-color: black;
+}
+
+/* .name_container {
+    width: 100%;
+    height: 100%;
+    align-self: center;
+} */
+
+div {
+    /* outline: dashed 1px white; */
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    /* margin: 0 auto 0 auto; */
+    /* position: relative; */
+}
+
+h1 {
+    color: white;
+    font-size: 9rem;
+    font-family: 'HyperJump';
+    width: fit-content;
+    /* Center vertically and horizontally */
+    /* position: absolute; */
+    /* margin: -50px 0 0 0; */
+}
